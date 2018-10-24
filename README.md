@@ -29,3 +29,7 @@ outbound.proto=freedom
 outbound.addr=0.0.0.0
 ...
 ```
+
+> Please note that this project is not finalized for releasing the initial verson.
+> All current documentation could be changed in the further releases of the VMecs code or binary.
+
