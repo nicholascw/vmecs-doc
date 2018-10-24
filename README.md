@@ -12,6 +12,15 @@ Usage
 ---
 `$ vmecs CONFIG`
 
+Build
+---
+```
+cd path/to/source_tree
+cmake ./
+make
+```
+
+
 Config File
 ---
 Different with [v2ray-core](https://github.com/v2ray/v2ray-core), VMecs's config
