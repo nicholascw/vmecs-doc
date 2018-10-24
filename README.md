@@ -30,6 +30,6 @@ outbound.addr=0.0.0.0
 ...
 ```
 
-> Please note that this project is not finalized for releasing the initial verson.
+> Please note that this project is not finalized for releasing the initial version.
 > All current documentation could be changed in the further releases of the VMecs code or binary.
 
